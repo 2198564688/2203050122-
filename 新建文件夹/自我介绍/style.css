@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    padding-left: 20vw ;
+    background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);;
+}
+
+h1 {
+    /* 文字大小 */
+    font-size: 3em;
+    margin-bottom: 0.8em;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 1.4em;
+}
+
+p {
+    font-size: 1.4em;
+    /* 字体粗细 */
+    font-weight: 300;
+    /* 行高 */
+    line-height: 1.6em;
+    /* 最大宽度 */
+    max-width: 600px;
+    font-size: 26px;
+}
